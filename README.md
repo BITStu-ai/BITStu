@@ -22,6 +22,14 @@ We call this **Human Hospitality** — the principle that no matter how autonomo
 
 AI should make people feel seen, not processed.
 
+## How We Build It Human 
+
+Human Hospitality isn't a feature, it's a constraint we build to from the start. Every agent we ship is designed to know when to pause, when to hand off, and how to make the person on the other side feel heard. Tone-aware. Context-aware. Never a dead end. 
+
+Every interaction has a human-feeling exit, and no user ever starts over. We run every agent through a Human Hospitality review before it ships; not just "does it work," but "does it feel like someone cares." 
+
+The technology is autonomous. The experience is personal. That's the line we hold.
+
 ## What We Build
 
 - **Custom AI Agents** — Autonomous systems built to your exact specifications, from prototype to production.
@@ -34,6 +42,9 @@ BIT is the AI operations layer for agencies and their clients. Clients define Pl
 
 **Briana Isabella Torres** — Founder & CEO  
 CS & Design @ Northeastern · Former SWE Intern @ Apple · Built and Deployed the First AI systems for MA state government · RAG pipelines & agentic architecture    
+
+**Caleb Burns** — Founding GTM Lead  
+Economics @ Morehouse · Marketing Lead, Omar Mohuddin Mayoral Campaign · Marketing & Partnerships @ Care Hero (Harvard) · Founder of three brands with 750K+ views · B2B sales & founder-led GTM
 
 ## Tech Stack
 
@@ -54,9 +65,9 @@ We're in our **pre-seed stage** and actively looking for:
 
 ## Contact
 
-- **Email:** [talk to Bri](mailto:briana@torres.us)
-- **LinkedIn:** [BITStu](https://www.linkedin.com/in/briana-isabella/)
-- **X/Twitter:** [@Orchard](https://x.com/orchardtui) / [@BRI](https://x.com/bebetanktop)
+- **Email:** [talk to Bri](mailto:briana@torres.us) | [talk to Heather](mailto:hscarminati@hotmail.com)
+- **LinkedIn:** [BRI.ai](https://www.linkedin.com/in/briana-isabella/) | [HEAT.ai](https://www.linkedin.com/in/heather-carminati/)
+- **X/Twitter:** [@BRI](https://x.com/bebetanktop) | [@HEAT](https://x.com/cvrminati)
 
 ## License
 
