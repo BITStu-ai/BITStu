@@ -1,4 +1,4 @@
-# BITStu
+# BITStu.ai
 
 **Agentic AI, built to spec.**
 
@@ -36,13 +36,15 @@ The technology is autonomous. The experience is personal. That's the line we hol
 - **Agentic Workflows** — Multi-step, multi-tool agent pipelines that handle real work end-to-end.
 - **AI Integration** — Seamlessly embed intelligent agents into your existing products and infrastructure.
 
+BIT is the AI operations layer for agencies and their clients. Clients define Playbooks — structured workflows that BIT's multi-agent system executes using a proprietary Knowledge Base scoped to their business. Every run produces traceable, downloadable artifacts. Unlike generic AI tools, Kai is built around the agency relationship: the AI knows what the client knows, operates at the effort level the task demands, and gets smarter with every run. We're targeting agencies first — high-value, high-volume, underserved by current AI tooling — and expanding to any client type with structured operational workflows.
+
 ## The Team
 
-**Briana Isabella Torres** — Co-Founder & CEO  
-CS & Design @ Northeastern · Former SWE Intern @ Apple · Built and Deployed the First AI systems for MA state government · RAG pipelines & agentic architecture  
+**Briana Isabella Torres** — Founder & CEO  
+CS & Design @ Northeastern · Former SWE Intern @ Apple · Built and Deployed the First AI systems for MA state government · RAG pipelines & agentic architecture    
 
-**Heather Carminati** — Co-Founder & CTO  
-MS CS @ Northeastern (4.0) · Technical Leadership · Full-stack architecture & product engineering across gov, enterprise & consumer · Building the systems that scale BITStu's ecosystem
+**Caleb Burns** — Founding GTM Lead  
+Economics @ Morehouse · Marketing Lead, Omar Mohuddin Mayoral Campaign · Marketing & Partnerships @ Care Hero (Harvard) · Founder of three brands with 750K+ views · B2B sales & founder-led GTM
 
 ## Tech Stack
 
